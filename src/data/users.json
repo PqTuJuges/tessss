@@ -1,0 +1,31 @@
+[
+  {
+    
+    "name": "Martin",
+    "image": "/images/faker.jpg",
+    "info" : "lol"
+  },
+  {
+    
+    "name": "Baptiste",
+    "image": "/images/faker.jpg",
+    "info" : "lol"
+  },
+  { 
+    "name": "Camille",
+    "image": "/images/faker.jpg",
+    "info" : "lol"
+  },
+  {
+    
+    "name": "Bernard",
+    "image": "/images/faker.jpg",
+    "info" : "lol"
+  },
+  {
+   
+    "name": "Moreau",
+    "image": "/images/faker.jpg",
+    "info" : "lol"
+  }
+]
